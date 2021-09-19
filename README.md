@@ -18,22 +18,11 @@
 <table>
 
 <tr>
-<td>PHP</td>
+<td>PHP</td> <td> MySql</td> <td>PhpMyAdmin</td>
 </tr>
+
 <tr>
-<td> 7.2</td>
-</tr>
-<tr>
-<td> MySql</td>
-</tr>
-<tr>
-<td>5.7</td>
-</tr>
-<tr>
-<td>PhpMyAdmin</td>
-</tr>
-<tr>
-<td>5.0.2</td>
+<td> 7.2</td> <td>5.7</td> <td>5.0.2</td>
 </tr>
 
 </table> 
